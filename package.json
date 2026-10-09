@@ -1,0 +1,16 @@
+{
+  "name": "udyamsetu",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "UdyamSetu - scheme finder with accounts, powered by Netlify Functions + Netlify Blobs",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
